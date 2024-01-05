@@ -78,6 +78,8 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
    Guarda este Address del Contrato (requisito): 0x5A8Cb94253F353f8B232ED0CBE9a0Cc37dC676b4
    ```
 
+   Contract address: `0x41337Cc50e5b3e8883E92712ee39ded796dF7b9B`
+
 9. Razones por las cuales el comando anterior podría fallar
 
    - El archivo `.env` no tiene las claves correctas
